@@ -66,7 +66,7 @@
 | 16 | **List Installed Packages** | Tampilkan daftar package yang sudah terinstall |
 | 17 | **Auto Padding Box** | Border box selalu rapi walau teks panjang/pendek |
 | 18 | **Anti-ANSI Padding Bug** | Hitung panjang string ignore ANSI escape code |
-| 19 | **Warna Original** | Merah, putih, hijau konsisten khas FIAN DEV |
+| 19 | **Warna Original** | Merah, putih, hijau konsisten khas Fian Dev |
 | 20 | **Loop Menu** | Terus kembali ke menu sampai pilih keluar |
 
 ---
@@ -94,8 +94,8 @@ pkg update && pkg upgrade -y
 pkg install -y git
 
 # Clone repository
-git clone https://github.com/FianDev/termux-tools-manager
-cd termux-tools-manager
+git clone https://github.com/FianXploit/ManagerTool
+cd ManagerTool
 
 # Beri izin executable
 chmod +x tools.sh
